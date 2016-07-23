@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bwaz Spot]]></title>
         <description><![CDATA[Bwaz Spot]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bwaz-spot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 23:18:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jul 2016 00:29:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bwaz-spot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b411f808-86af-4e94-9a69-fe93feb6195c.jpg">]]></description>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/456f06c18864da195bdeb99ab2d8640c/croprotate.jpg?cropheight=5312&cropwidth=2988&degrees=-90&input=https://the-grid-user-content.s3-us-west-2.amazonaws.com/b411f808-86af-4e94-9a69-fe93feb6195c.jpg&x=0&y=0">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b411f808-86af-4e94-9a69-fe93feb6195c.jpg</link>
             <guid isPermaLink="false">4ffd357a-d59b-4e07-bca7-5abbe6b80688</guid>
-            <pubDate>Fri, 22 Jul 2016 23:18:23 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2016 00:28:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
