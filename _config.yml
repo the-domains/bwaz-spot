@@ -5,10 +5,10 @@ color:
     - '#3BA7FF'
     - '#000008'
     - '#1966B8'
-  brandStrength: 0.513513
-  lightness: 0.570946
+  brandStrength: 1
+  lightness: 0.887669
   rhythmicContrast: 0.349662
   saturation: 0.294764
-layout_spectrum: 0.945946
+layout_spectrum: 0.380912
 name: Bwaz Spot
 typography_spectrum: 0.654561
