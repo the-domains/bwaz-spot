@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Bwaz Spot]]></title>
         <description><![CDATA[Bwaz Spot]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bwaz-spot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 00:43:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jul 2016 00:52:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bwaz-spot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0c89f3c-4b44-4772-b353-948f68e3f460.jpg" alt="Nap time">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/fae0a4c3-89e4-4dad-be1d-79d4c5afea9e.jpg</link>
+            <guid isPermaLink="false">ecd4cbd1-13da-4cc6-b1ba-3def1a73df98</guid>
+            <pubDate>Sat, 23 Jul 2016 00:52:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3895a727-4ee6-4411-84e4-a8cf65dcaa7f.jpg">]]></description>
