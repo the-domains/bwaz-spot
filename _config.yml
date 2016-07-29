@@ -1,3 +1,9 @@
+name: Bwaz Spot
+layout_spectrum: 0.380912
+typography_spectrum: 0.654561
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#304269'
@@ -7,8 +13,12 @@ color:
     - '#F26101'
   brandStrength: 0.23138443380594254
   lightness: 0.8612595701124519
-  rhythmicContrast: 0.1115522962063551
   saturation: 0.4341613450087607
-layout_spectrum: 0.380912
-name: Bwaz Spot
-typography_spectrum: 0.654561
+  rhythmicContrast: 0.1115522962063551
+title: ''
+author:
+  name: 'Mike Boisvert '
+  url: ''
+  email: bwaz99@gmail.com
+content_rating:
+  adult: false
